@@ -9,5 +9,8 @@ The official thesis document is still in the works.
 ### Video Demonstrations
 - [Simulation 1](simulation_1.mov)
 
-<video src="simulation_1.mov" width="800"  controls preload></video>
+<video src="simulation_1.mov" width="800"  controls preload>Simulation 1</video>
+
+<video src="simulation_2.mov" width="800"  controls preload>Simulation 2</video>
+
 
