@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+## Main Paper 
+[PDF](PBIT__Copy_.pdf)
 
-## [Main Paper](PBIT__Copy_.pdf)
+## Supplementary Materials
 
 You can use the [editor on GitHub](https://github.com/iharryharryli/thesis/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
