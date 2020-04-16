@@ -7,14 +7,14 @@ The official thesis document is still in the works.
 [Paper Appendix](supplementary.pdf)
 
 ### Video Demonstrations
-- Simulation to Simulation (Replica to Gibson)
+- Simulation to Simulation 
 <video src="simulation_1.mov" width="800"  controls ></video>
 <video src="simulation_2.mov" width="800"  controls ></video>
 <video src="simulation_3.mov" width="800"  controls ></video>
 <video src="simulation_4.mov" width="800"  controls ></video>
 <video src="simulation_5.mov" width="800"  controls ></video>
 
-- Simulation to Real-World (Replica to Gibson)
+- Simluation to Real-World 
 <video src="real_world_1.mov" width="800"  controls ></video>
 <video src="real_world_2.mov" width="800"  controls ></video>
 <video src="real_world_3.mov" width="800"  controls ></video>
